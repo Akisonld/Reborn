@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Cenas","order":8,"path":"folders/Cenas.yy",},
+    {"name":"Objetos","order":7,"path":"folders/Objetos.yy",},
+    {"name":"Sprites","order":14,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oparede","order":1,"path":"objects/oparede/oparede.yy",},
+    {"name":"Reborn_shield","order":1,"path":"sprites/Reborn_shield/Reborn_shield.yy",},
+    {"name":"shield","order":2,"path":"sprites/shield/shield.yy",},
+    {"name":"sword","order":3,"path":"sprites/sword/sword.yy",},
+    {"name":"The_Reborn","order":15,"path":"sprites/The_Reborn/The_Reborn.yy",},
+  ],
+}
